@@ -62,10 +62,10 @@ npm run dev
 Now, open the Chrome browser and go to [http://localhost:3000](http://localhost:3000) to generate all the nonsense words!
 
 ## Test Account 測試帳號
-* **email**：tony@stark.com | **password**：iamironman |**firstName**：Tony 
-* **email**：captain@hotmail.com |**password**：icandothisallday | **firstName**：Steve
+* **email**：tony@stark.com | **password**：iamironman | **firstName**：Tony 
+* **email**：captain@hotmail.com | **password**：icandothisallday | **firstName**：Steve
 * **email**：peter@parker.com | **password**：enajyram | **firstName**: Peter 
-* **email**：natasha@gamil.com |**password**：*parol#@$! | **firstName**：Natasha 
+* **email**：natasha@gamil.com | **password**：*parol#@$! | **firstName**：Natasha 
 * **email**：nick@shield.com | **password**：password | **firstName**：Nick 
 * **email**：test@ac.com | **password**：1234 | **firstName**：Serena 
 
