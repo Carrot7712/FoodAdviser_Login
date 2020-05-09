@@ -1,0 +1,35 @@
+/*-----for main.handlebars------*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&family=Oswald:wght@500&family=Satisfy&display=swap');
+@import "index.css";
+@import "welcome.css";
+/*font*/
+footer, #login-card,#login-success {
+  font-family: 'Noto Serif TC', serif;
+}
+nav a {
+  font-family: 'Oswald', sans-serif;
+}
+/*header*/
+header {
+  overflow: hidden;
+}
+.navbar .navbar-brand {
+  color: #4592af;
+}
+.navbar .navbar-brand:hover {
+  color: #226089;
+}
+/*footer*/
+footer {
+  background-color: #f8f9fa;
+  font-size: small;
+}
+.list-unstyled li a {
+  color: #4592af;
+  text-decoration: none;
+}
+.list-unstyled li a:hover {
+   color: #226089;
+  text-decoration: none;
+}
+
