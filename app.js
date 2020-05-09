@@ -26,10 +26,10 @@ app.get('/', (req, res) => {
 
 app.post('/', (req, res) => {
   //幫使用者保留可能有錯的帳號
-  const userKeyin=req.body
+  const userKeyin = req.body
   //根據回傳值決定要render的畫面
-  const result=login(req.body)
-  if (result.includes('錯誤')) {
+  const result = login(req.body)
+  if (result.includes('修正')) {
     res.render('index', { result, userKeyin })
   } else {
     res.render('welcome', { result })

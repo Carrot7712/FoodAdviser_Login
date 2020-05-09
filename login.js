@@ -39,6 +39,6 @@ function login(info) {
       return users[i].firstName
     }
   }
-  return `帳號或密碼錯誤，請修正，或前往註冊/忘記密碼`
+  return `請修正帳號或密碼，或前往註冊/忘記密碼`
 }
 module.exports = login
