@@ -4,7 +4,14 @@
 
 一個登入頁面，用來學習 node.js、express、express-handlebars 和 body-parser的基礎知識。
 
-<div align=center><img width="750" src="https://i.imgur.com/rFIzo8a.png"></div>
+* 登入畫面
+<div align=center><img width="750" src="https://i.imgur.com/n5SStqG.png"></div>
+
+* 歡迎畫面
+<div align=center><img width="750" src="https://i.imgur.com/uBmwDQo.png"></div>
+
+* 錯誤畫面
+<div align=center><img width="750" src="https://i.imgur.com/3irwsPQ.png"></div>
 
 ## Features - 特色功能
 
